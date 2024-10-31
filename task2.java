@@ -15,7 +15,7 @@ class Answer{
 }
 
 
-public class Printer{
+public class task2{
     public static void main(String[] args) {
         Answer ans = new Answer();
         ans.printEvenNums();
